@@ -3,7 +3,6 @@
   여러 동아리나 프로젝트에 참여하여 실력을 쌓으려고 발버둥 치고 있습니다🥸
   <br>
   <h2>🛠Skills</h2>
-  <hr>
   <div align="left">
       <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg" />
           &nbsp;
