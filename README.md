@@ -1,7 +1,8 @@
 <div align="center">
-  <h2>🛠Skills & Tools</h2>
   백엔드에 흥미를 느껴 백엔드 개발자를 목표로 2024년부터 공부하고 있습니다 :> <br>
-  여러 동아리나 프로젝트에 참여하여 실력을 쌓으려고 발버둥 치고 있습니다🥸 <br>
+  여러 동아리나 프로젝트에 참여하여 실력을 쌓으려고 발버둥 치고 있습니다🥸
+  <br>
+  <h2>🛠Skills & Tools</h2>
   <table>
     <tr>
       <td align="center">Skills</td>
@@ -24,7 +25,7 @@
       <td align="center">Tools</td>
       <td>
          <div>
-            <img alt="VisualCode" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
+            <img alt="VisualStudioCode" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
             &nbsp;
             <br/>
             <img alt="InteliiJ" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
