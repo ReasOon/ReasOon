@@ -31,4 +31,11 @@
     <td>24.04 - </td>
     <td></td>
   </tr>
+  <tr align="center">
+    <td>9roomthon UNIV</td>
+    <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_32_BE">OnChung</a></td>
+    <td>Back-End Engineering</td>
+    <td>24.11.18. - </td>
+    <td></td>
+  </tr>
   </table>
